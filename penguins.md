@@ -3,6 +3,8 @@ Penguins
 Antariksh Nag
 2024-11-28
 
+This is some analysis done on the mtcars data
+
 ``` r
 data <- mtcars
 
@@ -13,4 +15,4 @@ ggplot(data, aes(x = wt, y = mpg)) +
   theme_bw()
 ```
 
-![](penguins_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](penguins_files/figure-gfm/r-1.png)<!-- -->
